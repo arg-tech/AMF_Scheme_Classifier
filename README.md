@@ -7,3 +7,5 @@
 Run: docker-compose up
 
 The service should run in the url http://localhost:8090/schemes_clsf 
+
+(It takes about 30 sec. to return results for files of size like the corpesotway.json)
